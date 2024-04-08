@@ -11,7 +11,7 @@ This repository contains a Node.js script to demonstrate how to create work item
 
 1. Clone this repository to your local machine:
 
-git clone <[https://github.com/Adarshhetty/DevRev_Assignment]>
+git clone [https://github.com/Adarshhetty/DevRev_Assignment]
 
 2. Navigate to the project directory:
 
