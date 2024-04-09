@@ -40,5 +40,10 @@ node script.js
 - If you encounter any errors or issues while running the script, double-check the API key and ensure that you have provided valid values for the `requestData` object.
 
 - Refer to the [DevRev API documentation](https://devrev.ai/docs/api/) for more information on available endpoints and request parameters.
+  
+  <img width="715" alt="api-img" src="https://github.com/Adarshhetty/DevRev_Assignment/assets/95522378/9ff1737a-d99e-4d20-aeca-a6df8c0b9207">
+  
+<img width="559" alt="api-1" src="https://github.com/Adarshhetty/DevRev_Assignment/assets/95522378/b1835526-ac46-4d5a-b9e9-676949504184">
+
 
 
