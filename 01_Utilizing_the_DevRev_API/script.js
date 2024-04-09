@@ -1,12 +1,12 @@
 const axios = require('axios');
-
+require("dotenv")
 const API_KEY = process.env.API_KEY;
 
 const workData = {
-    type: 'issue', 
-    applies_to_part: 'PROD-1', 
-    owned_by: ['adarshetty18226'], 
-    title: 'New Product' 
+    type:"issue",
+    owned_by:["DEVU-1"],
+    title:"New Work",
+    applies_to_part:"PROD-1",
     
 };
 
