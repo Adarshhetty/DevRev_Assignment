@@ -59,3 +59,11 @@ devrev snap_in update
 devrev snap_in deploy
 ```
 
+<img width="733" alt="hello-snap" src="https://github.com/Adarshhetty/DevRev_Assignment/assets/95522378/cc1e537f-c8ca-4fdb-9c7d-f0854c5a75fc">
+
+<br/>
+
+<img width="956" alt="hello" src="https://github.com/Adarshhetty/DevRev_Assignment/assets/95522378/2f1efb93-c022-4cad-ab0f-602311ea40ba">
+
+
+
